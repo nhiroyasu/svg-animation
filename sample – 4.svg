@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-sample_4">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="sample_4" data-name="sample – 4" clip-path="url(#clip-sample_4)">
+    <rect width="128" height="128" fill="#fff"/>
+    <circle id="楕円形_2" data-name="楕円形 2" cx="16" cy="16" r="16" transform="translate(48 28)" fill="#e62f2f"/>
+    <path id="多角形_1" data-name="多角形 1" d="M18.5,0,37,32H0Z" transform="translate(21 68)" fill="#2f6dd1"/>
+    <rect id="長方形_6" data-name="長方形 6" width="32" height="32" transform="translate(76 68)" fill="#ebc72d"/>
+  </g>
+</svg>

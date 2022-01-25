@@ -1,0 +1,13 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(3, 64px);
+}
+
+svg {
+  width: 64px;
+  height: 64px;
+}
