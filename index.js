@@ -62,3 +62,14 @@ anime({
   direction: 'alternate',
   loop: true,
 });
+
+anime({
+  targets: '#sample5 > rect',
+  height: function (el) {
+    return [0, anime.get(el, 'height', 'px')];
+  },
+  easing: 'easeInOutSine',
+  duration: 1500,
+  direction: 'alternate',
+  loop: true,
+});
